@@ -7,6 +7,7 @@ This project is designed to collect and display meteorological data. The ESP-01 
 - Collects meteorological data using ESP-01 Wi-Fi module from weather websites
 - Stores data in a database for historical analysis
 - Displays data in a table format
+- Exports data into a csv file
 
 ## Getting Started
 
