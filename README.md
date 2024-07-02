@@ -15,6 +15,7 @@ This project is designed to collect and display meteorological data. The ESP-01 
 
 - ESP-01 Wi-Fi module
 - Arduino UNO
+- Arduino IDE
 - Internet connection
 - Weather API key from your preferred data source
 - Web server to host the database and display the data
