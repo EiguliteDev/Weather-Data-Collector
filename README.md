@@ -65,6 +65,7 @@ You have two options to get the files:
 ### 5. Setting up the website
 
 - Host a website.
+- Upload `data-fetch.php`, `data-save.php`, `index.html`, `style.css`, `script.js` files and configure them.
 - Ensure the database is set up to receive data from the ESP-01.
 
 ### Files
